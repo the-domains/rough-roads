@@ -4,7 +4,7 @@
         <description><![CDATA[Rough Roads]]></description>
         <link>https://thegrid.ai/rough-roads/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 07:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 08:32:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rough-roads/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Scapes]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/rough-roads/scapes/index.html</link>
             <guid isPermaLink="false">b0400a85-378b-4de2-8fc4-4e1e026f8a6d</guid>
             <pubDate>Sun, 27 Dec 2015 07:55:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Going Pro]]></title>
-            <description><![CDATA[<article><h1>Going Pro</h1><p>If you go back to the very beginning its been over 33 years. 33 years since I was given my first slr, 33 years since I first wanted to emulate my cousin and take beautiful pictures. 33 years to understand photography and become a full time professional!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6ae8060cbd59bf59e2c9c30e449850b621a9bf2.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rough-roads/going-pro/index.html</link>
-            <guid isPermaLink="false">07ba51a5-6119-48a3-83f1-b25c4e0a9876</guid>
-            <pubDate>Sun, 27 Dec 2015 06:10:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
