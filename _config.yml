@@ -1,28 +1,26 @@
-name: Rough Roads
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.3978495
+  brandStrength: 0.8518344
+  rhythmicContrast: 0.6397849
   brandColors:
-    - '#010101'
-    - '#272526'
-    - '#5e5a59'
-    - '#bfbbba'
-    - '#f4f2f3'
-  brandStrength: 0.625
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  lightness: 0.6559139
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.8297491
+typography_spectrum: 0
+name: Rough Roads
