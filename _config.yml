@@ -1,6 +1,6 @@
 name: Rough Roads
 favicon: null
-layout_spectrum: 0.90763
+layout_spectrum: 0.00179
 typography_spectrum: 0
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#b9c0d2'
     - '#57b89c'
     - '#b88962'
-  brandStrength: 0.5
-  lightness: 0.5
+  brandStrength: 0.25
+  lightness: 0.75
   saturation: 0.5
   rhythmicContrast: 0
 purpose: []
